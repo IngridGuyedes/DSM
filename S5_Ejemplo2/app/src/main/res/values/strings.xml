@@ -1,0 +1,10 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">Calculadora Básica</string>
+    <string name="hint_input">Ingresa un número</string>
+    <string name="add">Sumar</string>
+    <string name="subtract">Restar</string>
+    <string name="multiply">Multiplicar</string>
+    <string name="divide">Dividir</string>
+    <string name="result">Resultado: </string>
+</resources>
