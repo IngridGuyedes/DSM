@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667806663335",
+    "project_id": "loginfirebase16032024",
+    "storage_bucket": "loginfirebase16032024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667806663335:android:6f254cf0402ee9c89d9182",
+        "android_client_info": {
+          "package_name": "edu.udb.loginfirebase16032024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoAwBqfrPmRh6Bmy7u4GmfcwNrVGrHIig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
